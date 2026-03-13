@@ -14,6 +14,17 @@ Implement a rich PDF reading experience in Angular including page tracking, tool
 1. `ng serve` 
 2. Load the sample PDF and test the page navigation and state saving.
 
+## Project Summary
+Implement a rich PDF reading experience in Angular including page tracking, toolbar customization, and access control integrations.
+
+## How to Run
+### Installation
+1. `npm install` 
+
+### Running
+1. `ng serve` 
+2. Load the sample PDF and test the page navigation and state saving.
+
 This code is part of a series of articles:
 
 Find the associated article here: https://www.telerik.com/blogs/author/dany-paredes
